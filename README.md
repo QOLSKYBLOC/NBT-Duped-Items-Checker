@@ -19,7 +19,7 @@ This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/97
 When buying an expensive item such as a Hyperion, many of them are duped, this mod can check for duped items to avoid you getting banned/wiped!
 
 # Is this bannable?
-The short answer for this question is no. It follows all of Hypixel's rules about mod use, does not add any sort of exploitation. =
+The short answer for this question is no. It follows all of Hypixel's rules about mod use, does not add any sort of exploitation. 
 
 # Hotkeys and commands
 /nbtd opens control menu GUI
