@@ -13,7 +13,7 @@ You install NBT just like you install any other Forge 1.8.9 mod, download and pu
 
 <!> NBT conflicts with Skytils and SBE because they use the same api!
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/972955697299980338/994447732548833430/NBT_Duped_Items_Checker_0.0.1.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/798784523599872000/995837832541245460/NBT_Dupe_Checker_0.0.1.jar)
 
 # Why is this useful?
 When buying an expensive item such as a Hyperion, many of them are duped, this mod can check for duped items to avoid you getting banned/wiped!
